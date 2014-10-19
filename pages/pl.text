@@ -8,20 +8,21 @@ bezpośredną kontrolę własnych bezpiecznych metod komunikacji."
 h2. Poczta elektroniczna <small>https://mail.riseup.net</small>
 
 Dostarczamy bezpieczne i prywatne konta poczty elektronicznej, dostępne poprzez przeglądarkę internetową, shell, IMAP oraz POP.
- [[Pomoc dotycząca poczty elektronicznej=> email]]. "Logowanie do poczty":https://mail.riseup.net. "Prośba o utworzenie konta":https://user.riseup.net/forms/new_user. "Przywracanie hasła":https://user.riseup.net/forms/password_reset/first. "Zmiana ustawień":https://user.riseup.net.
+ [[Pomoc dotycząca poczty elektronicznej => email]]. "Logowanie do poczty":https://mail.riseup.net. "Prośba o utworzenie konta":https://user.riseup.net/forms/new_user. "Przywracanie hasła":https://user.riseup.net/forms/password_reset/first. "Zmiana ustawień":https://user.riseup.net.
 
 h2. Listy mejlingowe <small>https://lists.riseup.net</small>
 
-Dostarczamy narzędzi do tworzenia list mejlingowych dla for activist organizations. [[Get help on lists => lists]]. "Login to lists":https://lists.riseup.net/www/. [[Request a list => creating-lists]]. [[Subscribe => subscribing]]. [[Unsubscribe => subscribing]].
+Dostarczamy narzędzi do tworzenia list mejlingowych dla organizacji społecznych. [[Pomoc dotycząca list mejlingowych => lists]]. "Logowanie do list mejlingowych":https://lists.riseup.net/www/. [[Tworzenie nowych list mejlingowych => creating-lists]]. [[Subskrypcja => subscribing]]. [[Wypisanie z listy => subscribing]].
 
-h2. New Services
+h2. Nowe usługi
 
-We are testing [*[[vpn]]*], [*[[chat]]*], and [*"etherpad":https://pad.riseup.net*] services. These services are still under development, and may be unreliable at times. If you want to help test them, please give them a try.
+Obecnie testujemy następujące usługi: [*[[vpn]]*], [*[[chat]]*], and [*"etherpad":https://pad.riseup.net*]. Usługi te są nadal w fazie produkcyjnej i mogą nie zawsze być w pełni dostępne. Jeżęli chcesz pomóc i ich testowaniu to je wypróbuj.
 
-h2. Resources
+h2. Zasoby
 
 *[[security]]*
-Resources and tutorials for more secure communication.
+Zasoby i samouczki dotyczące zasad prowadzenie bezpiecznej komunikacji.
 
-*"Help Desk":https://user.riseup.net/forms*
-In order to contact us with a question, use the help desk form to create a help ticket. But first, please search and read the online documentation found on this site.
+*"Centrum pomocy":https://user.riseup.net/forms*
+Jeżęli chcesz zadać nam pytanie, skorzystaj z formularza aby utworzyć żądanie wsparcia.
+Ale najpierw proszę przeszukać i przeczytać dokumentację znajdującą się na tej stronie.
