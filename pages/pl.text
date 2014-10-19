@@ -1,14 +1,11 @@
 @title = "Strona główna"
 @this.layout = 'home'
 @this.toc = false
-@this.summary = "Riseup dostarcza narzędzi do komunikacji internetowej osobom i organizacjom wspierającym wolnościowe zmiany społęczne.
-Projekt ten ma na celu stworzenie demokratycznej alternatywy i umożliwienie samostanowienia poprzez 
-bezpośredną kontrolę własnych bezpiecznych metod komunikacji."
+@this.summary = "Riseup dostarcza narzędzi do komunikacji internetowej osobom i organizacjom wspierającym wolnościowe zmiany społęczne. Projekt ten ma na celu stworzenie demokratycznej alternatywy i umożliwienie samostanowienia poprzez bezpośredną kontrolę własnych bezpiecznych metod komunikacji."
 
 h2. Poczta elektroniczna <small>https://mail.riseup.net</small>
 
-Dostarczamy bezpieczne i prywatne konta poczty elektronicznej, dostępne poprzez przeglądarkę internetową, shell, IMAP oraz POP.
- [[Pomoc dotycząca poczty elektronicznej => email]]. "Logowanie do poczty":https://mail.riseup.net. "Prośba o utworzenie konta":https://user.riseup.net/forms/new_user. "Przywracanie hasła":https://user.riseup.net/forms/password_reset/first. "Zmiana ustawień":https://user.riseup.net.
+Dostarczamy bezpieczne i prywatne konta poczty elektronicznej, dostępne poprzez przeglądarkę internetową, shell, IMAP oraz POP. [[Pomoc dotycząca poczty elektronicznej => email]]. "Logowanie do poczty":https://mail.riseup.net. "Prośba o utworzenie konta":https://user.riseup.net/forms/new_user. "Przywracanie hasła":https://user.riseup.net/forms/password_reset/first. "Zmiana ustawień":https://user.riseup.net.
 
 h2. Listy mejlingowe <small>https://lists.riseup.net</small>
 
@@ -20,7 +17,7 @@ Obecnie testujemy następujące usługi: [*[[vpn]]*], [*[[chat]]*], and [*"ether
 
 h2. Zasoby
 
-*[[security]]*
+*[[bezpieczenstwo]]*
 Zasoby i samouczki dotyczące zasad prowadzenie bezpiecznej komunikacji.
 
 *"Centrum pomocy":https://user.riseup.net/forms*
